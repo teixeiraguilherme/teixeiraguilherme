@@ -17,7 +17,10 @@ jobs:
         with:
         
           github_user_name: ${{ github.repository_owner }}
-          
+           
+          palette: github-dark 
+          locale: pt-BR
+          color_snake: "#007BFF"
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
