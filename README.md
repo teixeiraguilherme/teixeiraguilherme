@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/guilhermettxr">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=teixeiraguilherme&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00001"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeiraguilherme&layout=compact&langs_count=8&theme=dark&title_color=00001"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=teixeiraguilherme&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00001"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeiraguilherme&layout=compact&langs_count=8&theme=dark&title_color=00001"/>
 </div>
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
