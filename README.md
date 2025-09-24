@@ -23,16 +23,14 @@
     <td width="50%" align="center">
       <p align="center">
         <a href="https://github.com/teixeiraguilherme/CicloTech">
-          <img src="![Uploading Logo ciclotech.png…]()
-" width="250" alt="Nome do Projeto 1"/>
+          <img src="Logo ciclotech.png" width="200" alt="CicloTech"/>
         </a>
       </p>
       <p align="center">
-        <strong>Nome do Projeto 1</strong><br>
-        Uma breve descrição do que este projeto faz.
+        <strong>CicloTech</strong><br>
+        Projeto acadêmico direcionado a conectar usuários ao ponto de coleta.
         <br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=Python5&logoColor=white">
       </p>
     </td>
   </tr>
@@ -43,12 +41,12 @@
 ## ⚙️ Tecnologias e Ferramentas
 
   <div style="display: inline_block">
-    <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
-    <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Gui-Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Gui-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Gui-Kotlin" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> 
+    <img align="center" alt="Gui-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gui-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gui-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div> 
 </div> 
 
