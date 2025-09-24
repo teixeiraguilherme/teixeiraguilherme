@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/guilhermettxr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=teixeiraguilherme&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00001"/>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=teixeiraguilherme&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00001"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeiraguilherme&layout=compact&langs_count=8&theme=dark&title_color=00001"/>
 </div>
 
