@@ -5,7 +5,7 @@
 - 📚 Cursando Bacharelado de Sistemas de informação - UFRPE;
 - 🎓 Técnico em desenvolvimento de sistemas;
 - 🖋️ Trabalhando no projeto acadêmico CicloTech;
-- 💻 Em buscade oportunidades;
+- 💻 Em busca de oportunidades;
 - 👨🏽 Ele/Dele.
 </h3>
 
