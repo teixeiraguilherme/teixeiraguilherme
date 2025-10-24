@@ -22,7 +22,7 @@
   <tr style="border: none;">
     <td width="50%" align="center">
       <p align="center">
-        <a href="[https://github.com/teixeiraguilherme/CicloTech](https://github.com/teixeiraguilherme/Ciclo_Tech)">
+        <a href="https://github.com/teixeiraguilherme/Ciclo_Tech">
           <img src="Logo ciclotech.png" width="200" alt="CicloTech"/>
         </a>
       </p>
